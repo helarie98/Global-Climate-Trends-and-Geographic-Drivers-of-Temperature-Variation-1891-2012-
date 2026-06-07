@@ -31,14 +31,17 @@ Understanding long-term climate patterns is essential for organizations involved
 --- 
 
 Features
-Column	Description
-dt	Observation date
-AverageTemperature	Average temperature (°C)
-AverageTemperatureUncertainty	Measurement uncertainty
-City	City name
-Country	Country
-Latitude	Geographic latitude
-Longitude	Geographic longitude
+Column | Description
+--- | ---
+dt | Observation date
+AverageTemperature | Average temperature (°C)
+AverageTemperatureUncertainty | Measurement uncertainty
+City | City name
+Country | Country
+Latitude | Geographic latitude
+Longitude | Geographic longitude
+
+
 
 Data Quality Assessment
 
