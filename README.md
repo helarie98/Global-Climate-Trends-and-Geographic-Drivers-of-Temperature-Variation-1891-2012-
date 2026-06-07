@@ -11,13 +11,12 @@ This project investigates historical climate records from major cities worldwide
 How have global temperatures evolved over the past century, and what geographic factors drive regional climate differences?
 
 Understanding long-term climate patterns is essential for organizations involved in:
+- Agriculture
+- Infrastructure planning
+- Energy management
+- Environmental policy
+- Climate risk assessment
 
-Agriculture
-Infrastructure planning
-Energy management
-Environmental policy
-Climate risk assessment
-Dataset
 ---
 
 Dataset: GlobalLandTemperaturesByMajorCity
