@@ -32,14 +32,14 @@ Understanding long-term climate patterns is essential for organizations involved
 
 Features
 Column | Description | Data type
---- | ---
+--- | --- | ---
 dt | Observation date | Temporal
 AverageTemperature | Average temperature (°C) | Numerical 
 AverageTemperatureUncertainty | Measurement uncertainty | Numerical
 City | City name | Categorical
 Country | Country | Categorical
 Latitude | Geographic latitude | Geographical
-Longitude | Geographic longitude | Categorical
+Longitude | Geographic longitude | Geographical
 
 
 
