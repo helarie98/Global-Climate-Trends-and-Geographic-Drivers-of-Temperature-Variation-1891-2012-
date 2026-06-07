@@ -41,25 +41,26 @@ Country | Country | Categorical
 Latitude | Geographic latitude | Geographical
 Longitude | Geographic longitude | Geographical
 
+---
 
-
-Data Quality Assessment
+## Data Quality Assessment
 
 Several preprocessing steps were performed before analysis:
 
-Data Cleaning
-Converted date column to datetime format
-Extracted Year, Month, and Day features
-Removed records with missing temperature values
-Evaluated missing values and duplicates
-Assessed data coverage across years
-Coverage Assessment
+### Data Cleaning
+- Converted date column to datetime format
+- Extracted Year, Month, and Day features
+- Removed records with missing temperature values
+- Evaluated missing values and duplicates
+- Assessed data coverage across years
+
+### Coverage Assessment
 
 Analysis revealed highly inconsistent data availability before 1891:
 
-Sparse observations between 1743–1890
-Stable coverage between 1891–2012
-Incomplete observations for 2013
+- Sparse observations between 1743–1890
+- Stable coverage between 1891–2012
+- Incomplete observations for 2013
 
 To ensure reliable trend analysis, the study focuses on:
 
