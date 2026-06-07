@@ -30,7 +30,7 @@ Understanding long-term climate patterns is essential for organizations involved
   
 --- 
 
-Features
+## Features
 Column | Description | Data type
 --- | --- | ---
 dt | Observation date | Temporal
