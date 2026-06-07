@@ -20,7 +20,7 @@ Understanding long-term climate patterns is essential for organizations involved
 ---
 
 ## 📊 Dataset
-- Source: Kaggle (GlobalLandTemperaturesByMajorCity)  
+- Source: Kaggle (GlobalLandTemperatures_GlobalLandTemperaturesByMajorCity)  
   [Raw Dataset](Raw_data.csv)
   
 --- 
