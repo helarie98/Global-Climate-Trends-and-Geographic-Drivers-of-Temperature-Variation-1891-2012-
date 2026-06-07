@@ -63,9 +63,8 @@ Understanding long-term climate patterns is essential for organizations involved
 
 ---
 
-[analylis](Temperature_Analysis.ipynb)
-
 ## Conclusion
+[Analylis](Temperature_Analysis.ipynb)
 
 This analysis reveals that global temperatures have generally increased over the past century, with the most recent decades recording some of the highest average temperatures in the dataset. While early observations suggested substantial fluctuations, further investigation showed that these variations were largely driven by sparse data coverage and higher measurement uncertainty rather than genuine climate shifts. Restricting the analysis to the well-covered period from 1891 to 2012 provided a more reliable view of long-term climate behavior and revealed a clear and persistent warming trend.
 
