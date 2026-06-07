@@ -47,6 +47,18 @@ Understanding long-term climate patterns is essential for organizations involved
 
 ---
 
+## Sample Visualizations
+
+### Global Average Temperature Over Time
+
+![Global Temperature Trend](images/global_temperature_trend.png)
+
+### Average Temperature vs Distance from Equator
+
+![Distance from Equator](images/distance_from_equator.png)
+
+---
+
 ## Conclusion
 
 The analysis demonstrates both a long-term warming trend and the significant influence of geographic location on climate patterns. Geographic factors, particularly distance from the equator, explain a substantial portion of regional temperature variation.
