@@ -23,7 +23,10 @@ Understanding long-term climate patterns is essential for organizations involved
 - Source: Kaggle (GlobalLandTemperatures_GlobalLandTemperaturesByMajorCity)  
   [Raw Dataset](Raw_data.csv) #link to it in github
 
-- Initial size: 239177 rows × 7 columns
+### Dataset Size
+- Initial observations: 293,178
+- Geographic coverage: Major cities worldwide
+- Time range: 1743–2013
   
 --- 
 
@@ -36,10 +39,7 @@ City	City name
 Country	Country
 Latitude	Geographic latitude
 Longitude	Geographic longitude
-Dataset Size
-Initial observations: 293,178
-Geographic coverage: Major cities worldwide
-Time range: 1743–2013
+
 Data Quality Assessment
 
 Several preprocessing steps were performed before analysis:
