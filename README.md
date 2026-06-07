@@ -63,6 +63,15 @@ Understanding long-term climate patterns is essential for organizations involved
 
 ---
 
+[analylis](Temperature_Analysis.ipynb)
+
 ## Conclusion
 
-The analysis demonstrates both a long-term warming trend and the significant influence of geographic location on climate patterns. Geographic factors, particularly distance from the equator, explain a substantial portion of regional temperature variation.
+This analysis reveals that global temperatures have generally increased over the past century, with the most recent decades recording some of the highest average temperatures in the dataset. While early observations suggested substantial fluctuations, further investigation showed that these variations were largely driven by sparse data coverage and higher measurement uncertainty rather than genuine climate shifts. Restricting the analysis to the well-covered period from 1891 to 2012 provided a more reliable view of long-term climate behavior and revealed a clear and persistent warming trend.
+
+The study also demonstrated that geographic location is one of the strongest drivers of regional climate variation. Temperature decreases significantly with increasing distance from the equator, with latitude explaining a substantial proportion of the observed differences between cities and countries. However, geographic position alone does not fully determine climate conditions, as local environmental factors such as topography, proximity to water bodies, and regional climate systems also contribute to temperature variability.
+
+Importantly, the analysis showed that measurement uncertainty has steadily declined over time, indicating improvements in climate monitoring and data collection practices. Furthermore, extreme temperature observations were not associated with higher uncertainty, providing confidence that the hottest and coldest records in the dataset reflect genuine climatic conditions rather than data quality issues.
+
+Overall, the findings suggest that both long-term warming and geographic location play fundamental roles in shaping global temperature patterns. These insights can support climate-risk assessment, environmental planning, infrastructure development, and other data-driven decisions that depend on understanding regional and temporal climate dynamics.
+
