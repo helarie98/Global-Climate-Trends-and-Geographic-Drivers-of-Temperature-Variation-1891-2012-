@@ -70,73 +70,45 @@ To ensure reliable trend analysis, the study focuses on:
 
 ## Key Analyses
 
-1. Long-Term Temperature Trends
+### 1. Long-Term Temperature Trends
+While early observations exhibit substantial variability due to limited data coverage, the analysis reveals a persistent increase in average temperatures after the late nineteenth century. We observed that, recent decades are among the warmest periods observed in the dataset.
 
-The analysis reveals a persistent increase in average temperatures over time.
 
-While early observations exhibit substantial variability due to limited data coverage, temperatures show a clearer and more consistent upward trend after the late nineteenth century.
+### 2. Data Coverage Assessment
+Early fluctuations in average temperature were investigated by analyzing the number of observations recorded each year. The results show that:
 
-Key Finding
-
-Recent decades are among the warmest periods observed in the dataset.
-
-2. Data Coverage Assessment
-
-Early fluctuations in average temperature were investigated by analyzing the number of observations recorded each year.
-
-The results show that:
-
-Early years contain very few observations
-Data coverage expands significantly during the nineteenth century
-Coverage becomes stable after 1891
-Key Finding
+- Early years contain very few observations
+- Data coverage expands significantly during the nineteenth century
+- Coverage becomes stable after 1891
 
 Many apparent early temperature fluctuations are more likely caused by sparse data rather than genuine climate changes.
 
-3. Seasonal Patterns
+### 3. Seasonal Patterns
+Average temperatures exhibit a strong seasonal cycle: January is the coolest month (~12.2°C), July is the warmest month (~24.2°C) and Temperatures follow a consistent annual cycle.
 
-Average temperatures exhibit a strong seasonal cycle.
-
-Key Findings
-January is the coolest month (~12.2°C)
-July is the warmest month (~24.2°C)
-Temperatures follow a consistent annual cycle
-4. Regional Climate Differences
-Country-Level Analysis
-
-City-Level Analysis
-
-Key Findings
-Sudan is the warmest country in the dataset
-Russia is the coldest country on average
-Umm Durman (Sudan) is the warmest city
-Harbin (China) exhibits some of the coldest observed temperatures
+### 4. Regional Climate Differences
+From the Country-Level  and City-Level Analysis, we found that:
+- Sudan is the warmest country in the dataset
+- Russia is the coldest country on average
+- Umm Durman (Sudan) is the warmest city
+- Harbin (China) exhibits some of the coldest observed temperatures
 
 This demonstrates the substantial geographic variation in global climate conditions.
 
-5. Measurement Uncertainty Analysis
-
-To assess data reliability, temperature uncertainty was analyzed across time.
-
-Key Findings
-Measurement uncertainty decreases steadily over time
-Modern observations are more reliable than historical records
-Extreme temperatures generally exhibit low uncertainty
+### 5. Measurement Uncertainty Analysis
+To assess data reliability, temperature uncertainty was analyzed across time, we found that:
+- Measurement uncertainty decreases steadily over time
+- Modern observations are more reliable than historical records
+- Extreme temperatures generally exhibit low uncertainty
 
 These findings suggest that observed climate extremes are genuine measurements rather than artifacts of poor data quality.
 
-6. Temperature vs Measurement Uncertainty
-
-Correlation analysis produced:
-
-r = -0.0017
-Key Finding
-
-Temperature and measurement uncertainty are effectively independent.
+### 6. Temperature vs Measurement Uncertainty
+Correlation analysis produced r = -0.0017 indicating that emperature and measurement uncertainty are effectively independent.
 
 This indicates that extremely hot and cold observations are not systematically less reliable than moderate temperatures.
 
-7. Geographic Drivers of Temperature
+### 7. Geographic Drivers of Temperature
 
 A geographic analysis was performed using latitude information.
 
