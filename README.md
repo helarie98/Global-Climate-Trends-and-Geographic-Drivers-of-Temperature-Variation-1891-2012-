@@ -21,7 +21,9 @@ Understanding long-term climate patterns is essential for organizations involved
 
 ## 📊 Dataset
 - Source: Kaggle (GlobalLandTemperatures_GlobalLandTemperaturesByMajorCity)  
-  [Raw Dataset](Raw_data.csv)
+  [Raw Dataset](Raw_data.csv) #link to it in github
+
+- Initial size: 239177 rows × 7 columns
   
 --- 
 
