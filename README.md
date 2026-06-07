@@ -53,6 +53,10 @@ Understanding long-term climate patterns is essential for organizations involved
 
 ![Global Temperature Trend](images/global_temperature_trend.png)
 
+### Cities by Average Temperature
+
+![Global Temperature Trend](images/global_temperature_trend.png)
+
 ### Average Temperature vs Distance from Equator
 
 ![Distance from Equator](images/distance_from_equator.png)
