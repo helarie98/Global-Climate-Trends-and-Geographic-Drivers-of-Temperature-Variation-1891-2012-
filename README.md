@@ -66,7 +66,10 @@ To ensure reliable trend analysis, the study focuses on:
 
 1891–2012
 
-Key Analyses
+---
+
+## Key Analyses
+
 1. Long-Term Temperature Trends
 
 The analysis reveals a persistent increase in average temperatures over time.
