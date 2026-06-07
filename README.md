@@ -21,7 +21,7 @@ Understanding long-term climate patterns is essential for organizations involved
 
 ## 📊 Dataset
 - Source: Kaggle (GlobalLandTemperatures_GlobalLandTemperaturesByMajorCity)  
-  [Raw Dataset](Raw_data.csv) #link to it in github
+  [Dataset](GlobalLandTemperatures_GlobalLandTemperaturesByMajorCity.csv)
 - Records: 293,178
 - Time Period: 1743–2013
 - Analysis Period: 1891–2012
@@ -51,15 +51,15 @@ Understanding long-term climate patterns is essential for organizations involved
 
 ### Global Average Temperature Over Time
 
-![Global Temperature Trend](images/global_temperature_trend.png)
+![Global Temperature Trend](Global_avg_temp_over_time.png)
 
 ### Cities by Average Temperature
 
-![Global Temperature Trend](images/global_temperature_trend.png)
+![Warmest and coldest cities](Cities_by_avg_temp.png)
 
 ### Average Temperature vs Distance from Equator
 
-![Distance from Equator](images/distance_from_equator.png)
+![Distance from Equator](Distance_equator.png)
 
 ---
 
